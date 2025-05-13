@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "morning-limit-4f67",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "56f585f8-736f-4fb2-8e1e-1800b062d32d",
+      "database_name": "rapid-dust-3365-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
